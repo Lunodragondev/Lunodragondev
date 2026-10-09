@@ -10,7 +10,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lunodragondev-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunodragondev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-felipe-de-sousa-46321641a/)
-[![Instagram](https://img.shields.io/badge/Instagram-emanuel.adventure-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel.lofi/)
+[![Instagram](https://img.shields.io/badge/Instagram-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel.lofi/)
 
 </div>
 
