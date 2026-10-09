@@ -64,7 +64,7 @@ Este GitHub é meu espaço para compartilhar projetos, registrar meu aprendizado
 
 <div align="center">
 
-![Visitas ao perfil](https://komarev.com/ghpvc/?username=Lunodragondev&style=flat&color=7C3AED&label=VISITAS+AO+PERFIL)
+
 
 </div>
 
