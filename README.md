@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0614,35:2E1065,70:6D28D9,100:0B0614&text=LUNODRAGONDEV&fontColor=F5F3FF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=59&descSize=16" width="100%" alt="Banner Lunodragondev em tons de roxo e preto"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0614,35:2E1065,70:6D28D9,100:0B0614&text=LUNODRAGONDEV&fontColor=F5F3FF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=59&descSize=16" width="100%" alt="Banner Luno em tons de roxo e preto"/>
 
 # 🐉 Luno
 
@@ -61,28 +61,6 @@ Este GitHub é meu espaço para compartilhar projetos, registrar meu aprendizado
 
 **No meu fluxo criativo:** Adobe Substance 3D Painter · Unity · criação de texturas para VRChat.
 
-## 🚀 Projetos em destaque
-
-Aqui quero reunir projetos que mostrem meu processo de aprendizado, minhas habilidades técnicas e minha criatividade.
-
-| Projeto | O que explora |
-|---|---|
-| 🐍 **Game Snake** | Lógica de programação e desenvolvimento de jogos. |
-| 🔐 **Login Valorant** | Construção de interfaces web inspiradas em jogos. |
-| 🦊 **Carrossel Fox** | Componentes visuais e prática de front-end. |
-| 🌌 **Texturas VRChat** | Estudos de materiais, cores e personalização de avatares. |
-
-*Revise as descrições e tecnologias para que correspondam ao conteúdo real de cada repositório. Adicione links quando os endereços estiverem prontos.*
-
-## 📊 Minha atividade
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Lunodragondev&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C4B5FD&icon_color=A78BFA&text_color=E5E7EB&rank_icon=github" alt="Estatísticas do GitHub"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lunodragondev&layout=compact&hide_border=true&bg_color=0D1117&title_color=C4B5FD&text_color=E5E7EB" alt="Linguagens mais usadas"/>
-
-</div>
 
 <div align="center">
 
@@ -100,9 +78,8 @@ Também gosto de jogos, design, universos virtuais e música lo-fi para acompanh
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuel-felipe-009371328/)
-[![Instagram](https://img.shields.io/badge/Instagram-Perfil-C13584?style=for-the-badge&logo=instagram)](https://www.instagram.com/emanuel.adventure/)
-[![Twitch](https://img.shields.io/badge/Twitch-Canal-9146FF?style=for-the-badge&logo=twitch)](https://www.twitch.tv/piratalobo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/emanuel-felipe-de-sousa-46321641a/)
+[![Instagram](https://img.shields.io/badge/Instagram-Perfil-C13584?style=for-the-badge&logo=instagram)](https://www.instagram.com/emanuel.lofi/)
 
 </div>
 
