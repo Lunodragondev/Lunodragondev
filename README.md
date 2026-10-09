@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0614,35:2E1065,70:6D28D9,100:0B0614&text=LUNODRAGONDEV&fontColor=F5F3FF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=59&descSize=16" width="100%" alt="Banner Luno em tons de roxo e preto"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0614,35:2E1065,70:6D28D9,100:0B0614&text=LUNO&fontColor=F5F3FF&fontSize=42&fontAlignY=38&desc=CODE%20%E2%80%A2%20CREATE%20%E2%80%A2%20EVOLVE&descAlignY=59&descSize=16" width="100%" alt="Banner Luno em tons de roxo e preto"/>
 
 # 🐉 Luno
 
@@ -9,8 +9,8 @@
 *Transformando ideias em código e criatividade em experiências.*
 
 [![GitHub](https://img.shields.io/badge/GitHub-Lunodragondev-171717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lunodragondev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-felipe-009371328/)
-[![Instagram](https://img.shields.io/badge/Instagram-emanuel.adventure-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel.adventure/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conecte--se-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanuel-felipe-de-sousa-46321641a/)
+[![Instagram](https://img.shields.io/badge/Instagram-emanuel.adventure-C13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/emanuel.lofi/)
 
 </div>
 
